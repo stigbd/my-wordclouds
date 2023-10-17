@@ -1,0 +1,37 @@
+Xamarin
+Kotlin
+Native
+Android
+COCE
+BYOD
+COPE
+Azure
+SortApp
+DriverApp
+HubWorker
+TMS
+ParcelHub
+Driftsstabilitet
+Offshore
+Frontend team
+Backend team
+Smidig
+Managed service
+DevOps
+Insourcing
+Onshore
+ADAM2025
+Business Analyst
+Product owner
+UX
+Architect
+System owner
+System responsible
+Scrum master
+Sprint
+Deploy
+Time to marked
+Konsernstrategi
+Desentralisering
+Autonome team
+Peak
