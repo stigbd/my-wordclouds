@@ -2,9 +2,11 @@
 
 A small project to generate wordclouds from text files.
 
-## Run
+## Install and Run
 
-```bash
+```zsh
 % poetry install
-% poetry run python my_wordclouds.py
+% poetry build
+% pipx install dist/my_wordclouds-<version>-py3-none-any.whl # use the version from the build output
+% my-wordclouds --version # verify 
 ```

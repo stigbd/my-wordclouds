@@ -174,3 +174,9 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+# Do  not need to version control the following files:
+*.txt
+*.png
+# Except test-files folder, which we do want to version control:
+!files/*.txt
